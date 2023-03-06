@@ -1,3 +1,28 @@
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 % La collaboration avec Github
 ---
 marp: true
@@ -172,7 +197,6 @@ Effectuer (modifier le slides.md de ce cours) et proposer la suppression d'une d
   - ligne 4 à supprimer
   - ligne 5 à supprimer
   - ligne 6 à supprimer
-  - ligne 7 à supprimer
   - ligne 8 à supprimer
   - ligne 9 à supprimer
   - ligne 10 à supprimer
@@ -185,9 +209,6 @@ Effectuer (modifier le slides.md de ce cours) et proposer la suppression d'une d
   - ligne 17 à supprimer
   - ligne 18 à supprimer
   - ligne 19 à supprimer
-  - ligne 20 à supprimer
-
-
- 
+  - ligne 20 à supprimer 
 
 <hr style="border:2px solid gray">
