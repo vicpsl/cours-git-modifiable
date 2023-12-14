@@ -19,3 +19,4 @@ Ces cours sont sous licence CC BY. Les ressources utilisées par le cours sont t
 
 
 Mon deuxieme commit push en ligne
+Changement du readme dans la branche V2
