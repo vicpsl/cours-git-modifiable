@@ -174,7 +174,6 @@ Effectuer (modifier le slides.md de ce cours) et proposer la suppression d'une d
   - ligne 6 à supprimer
   - ligne 7 à supprimer
   - ligne 8 à supprimer
-  - ligne 9 à supprimer
   - ligne 10 à supprimer
   - ligne 11 à supprimer
   - ligne 12 à supprimer
