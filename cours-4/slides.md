@@ -184,7 +184,6 @@ Effectuer (modifier le slides.md de ce cours) et proposer la suppression d'une d
   - ligne 16 à supprimer
   - ligne 17 à supprimer
   - ligne 18 à supprimer
-  - ligne 19 à supprimer
   - ligne 20 à supprimer
 
 
