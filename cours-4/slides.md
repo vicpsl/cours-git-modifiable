@@ -166,27 +166,6 @@ Tester, tester , tester
 - Aller sur https://github.com/vicpsl/cours-git-modifiable (lorsque l'enseignant vous aura donné accès)
 - En suivant les bonnes pratiques (fork, issues, pull request) :  
 Effectuer (modifier le slides.md de ce cours) et proposer la suppression d'une des lignes suivantes
-  - ligne 1 à supprimer
-  - ligne 2 à supprimer
-  - ligne 3 à supprimer
-  - ligne 4 à supprimer
-  - ligne 5 à supprimer
-  - ligne 6 à supprimer
-  - ligne 7 à supprimer
-  - ligne 8 à supprimer
-  - ligne 9 à supprimer
-  - ligne 10 à supprimer
-  - ligne 11 à supprimer
-  - ligne 12 à supprimer
-  - ligne 13 à supprimer
-  - ligne 14 à supprimer
-  - ligne 15 à supprimer
-  - ligne 16 à supprimer
-  - ligne 17 à supprimer
-  - ligne 18 à supprimer
-  - ligne 19 à supprimer
-  - ligne 20 à supprimer
-
 
  
 
