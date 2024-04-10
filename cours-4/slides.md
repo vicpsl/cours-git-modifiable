@@ -11,7 +11,6 @@ marp: true
 	- Comptes organisations
 	- Équipes aux niveaux repository et organisations
 - Gestion de bug et de tickets (Issues)
-- Gestion de fusion de branche et de "review"
 
 **NB :** pour suivre les événements relatifs à un dépôt, se rendre sur le repo Github et cliquer sur **Watch** en haut à droite.
 Choisir les notifications souhaitées.
