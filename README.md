@@ -17,6 +17,3 @@ Ces cours sont sous licence CC BY. Les ressources utilisées par le cours sont t
 - 4 groupes de 4 personnes
 - Date de rendu : Février - Mars 2024 TBC
 
-
-Mon deuxieme commit push en ligne
-Changement du readme dans la branche V2
